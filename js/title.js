@@ -3,7 +3,8 @@ function setup() {
 }
 
 function draw() {
-    background("#333");
+    background("#444");
     textSize(30);
-    textAlign();
+    textAlign("center","center");
+    text("dude what the sigma",200,200);
 }
