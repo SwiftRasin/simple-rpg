@@ -4,4 +4,6 @@ function setup() {
 
 function draw() {
     background("#333");
+    textSize(30);
+    textAlign();
 }
